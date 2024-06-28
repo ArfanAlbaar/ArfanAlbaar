@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 CHECK THIS OUT!
 https://g.dev/arfanalbaar
+
+## Languages and Tools:
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)
